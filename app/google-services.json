@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "735220517511",
+    "project_id": "mostjo-aaf5c",
+    "storage_bucket": "mostjo-aaf5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735220517511:android:5d2f02a3058a96c0d4c622",
+        "android_client_info": {
+          "package_name": "com.example.mostjo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735220517511-ic6j1jv0lia6foj1rddtt8o86k6qumln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mostjo",
+            "certificate_hash": "73271e2af0d819ba9d3a2d22d83a0f50b630f201"
+          }
+        },
+        {
+          "client_id": "735220517511-ic6j1jv0lia6foj1rddtt8o86k6qumln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_m1nOVmhOgB4VeX8-xmmNN03pesbHjTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735220517511-ic6j1jv0lia6foj1rddtt8o86k6qumln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
